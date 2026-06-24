@@ -1,0 +1,11 @@
+・動作確認環境（ノートパソコン）
+Windows11Home64ビット
+・GPU
+NVIDIA GeForce RTX 4050 Laptop GPU
+
+制作箇所
+・プレイヤー全体の作成
+・各シーン設定
+・サウンドマネージャーの作成
+
+
